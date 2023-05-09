@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6498" started-at="2023-05-09T00:30:36 EDT" finished-at="2023-05-09T00:30:42 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6498" started-at="2023-05-09T00:30:36 EDT" finished-at="2023-05-09T00:30:42 EDT">
+      <class name="variousConcepts.LearnTestNG_MultipleBrowser_ReadPropertiesFile">
+        <test-method status="PASS" signature="readConfigFile()[pri:0, instance:variousConcepts.LearnTestNG_MultipleBrowser_ReadPropertiesFile@307f6b8c]" name="readConfigFile" is-config="true" duration-ms="7" started-at="2023-05-09T00:30:36 EDT" finished-at="2023-05-09T00:30:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfigFile -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.LearnTestNG_MultipleBrowser_ReadPropertiesFile@307f6b8c]" name="init" is-config="true" duration-ms="3393" started-at="2023-05-09T00:30:36 EDT" finished-at="2023-05-09T00:30:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:variousConcepts.LearnTestNG_MultipleBrowser_ReadPropertiesFile@307f6b8c]" name="addCustomer" duration-ms="3059" started-at="2023-05-09T00:30:39 EDT" finished-at="2023-05-09T00:30:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- variousConcepts.LearnTestNG_MultipleBrowser_ReadPropertiesFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
